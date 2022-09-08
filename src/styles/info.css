@@ -1,0 +1,8 @@
+.info-container{
+    border: 2px solid black;
+    padding: 3px 30px;
+}
+
+.data-info{
+    font-size: 1.3rem;
+}

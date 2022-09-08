@@ -1,0 +1,14 @@
+.btn-logout{
+    padding: 23px;
+    position: absolute;
+    top: 10px;
+    right: 0px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4em;
+    margin: 3em;
+}
